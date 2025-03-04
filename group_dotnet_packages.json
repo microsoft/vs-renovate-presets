@@ -1,0 +1,14 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Groups updates to all NuGet packages produced by the .NET team",
+	"packageRules": [
+		{
+			"matchPackageNames": [
+				"Microsoft.Bcl.AsyncInterfaces",
+				"Microsoft.Extensions.*",
+				"System.*"
+			],
+			"groupName": ".NET packages"
+		}
+	]
+}

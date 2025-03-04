@@ -1,20 +1,20 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"description": "Limits NuGet packages that ship alongside the .NET runtime to versions beneath major version <code>{{arg0}}</code>. Use 9 as the argument if you target .NET 8 era packages.",
+	"extends": ["github>microsoft/vs-renovate-presets:group_dotnet_packages"],
 	"packageRules": [
 		{
 			"matchPackageNames": [
+				"Microsoft.Bcl.AsyncInterfaces",
 				"System.Collections.Immutable",
 				"System.Composition*",
 				"System.Diagnostics.DiagnosticSource",
 				"System.IO.Pipelines",
 				"System.Reflection.Metadata",
 				"System.Text.Json",
-				"System.Threading.Tasks.Dataflow",
-				"Microsoft.Bcl.AsyncInterfaces"
+				"System.Threading.Tasks.Dataflow"
 			],
-			"allowedVersions": "<{{arg0}}.0",
-			"groupName": ".NET packages"
+			"allowedVersions": "<{{arg0}}.0"
 		}
 	]
 }

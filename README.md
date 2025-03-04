@@ -10,7 +10,7 @@ The following graph depicts the presets we have and their relationships.
 ```mermaid
 flowchart TD
     devdiv --> configRecommended["config:recommended"]
-    dotnet_packages_below
+    dotnet_packages_below --> group_dotnet_packages
     microbuild --> devdiv
     vs_components --> devdiv
     vs_main_dependencies --> vs_components
