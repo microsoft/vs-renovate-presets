@@ -1,0 +1,11 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Groups updates to all MicroBuild-related packages into one PR.",
+	"extends": ["github>microsoft/vs-renovate-presets:devdiv"],
+	"packageRules": [
+		{
+			"matchPackageNames": ["Microsoft.VisualStudio.Internal.MicroBuild*"],
+			"groupName": "microbuild"
+		}
+	]
+}

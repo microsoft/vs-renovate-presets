@@ -1,0 +1,15 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Groups VS SDK package updates and suppresses patch-only upgrades.",
+	"packageRules": [
+		{
+			"matchPackageNames": ["Microsoft.VisualStudio.*"],
+			"groupName": "Visual Studio SDK"
+		},
+		{
+			"matchPackageNames": ["Microsoft.VisualStudio.*"],
+			"matchUpdateTypes": ["patch"],
+			"enabled": false
+		}
+	]
+}
