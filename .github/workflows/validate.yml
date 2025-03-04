@@ -1,0 +1,17 @@
+name: 🧪 Test presets
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: renovate-config-validator
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: 🧪 renovate-config-validator
+      shell: pwsh
+      run: |
+        $configFiles = Get-ChildItem *.json
+        npx --yes --package renovate -- renovate-config-validator --strict @configFiles
