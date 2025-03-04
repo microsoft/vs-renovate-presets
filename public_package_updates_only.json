@@ -1,0 +1,15 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Only update packages to versions publicly available on nuget.org.",
+	"packageRules": [
+		{
+			"matchDatasources": ["nuget"],
+			"matchPackageNames": [
+				"!Microsoft.VisualStudio.Internal.*"
+			],
+			"registryUrls": [
+				"https://api.nuget.org/v3/index.json"
+			]
+		}
+	]
+}
