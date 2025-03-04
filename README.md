@@ -12,7 +12,7 @@ flowchart TD
     devdiv --> configRecommended["config:recommended"]
     dotnet_packages_below
     microbuild --> devdiv
-    vs_components
+    vs_components --> devdiv
     vs_main_dependencies --> vs_components
     vs_main_dependencies --> dotnet_packages_below
 ```

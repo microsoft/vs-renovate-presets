@@ -1,6 +1,7 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"description": "Groups VS SDK package updates and suppresses patch-only upgrades.",
+	"extends": ["github>microsoft/vs-renovate-presets:devdiv"],
 	"packageRules": [
 		{
 			"matchPackageNames": ["Microsoft.VisualStudio.*"],
