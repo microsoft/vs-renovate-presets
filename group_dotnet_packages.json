@@ -6,6 +6,7 @@
 			"matchPackageNames": [
 				"Microsoft.Bcl.AsyncInterfaces",
 				"Microsoft.Extensions.*",
+				"runtime.native.System*",
 				"System.*"
 			],
 			"groupName": ".NET packages"
