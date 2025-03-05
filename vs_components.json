@@ -4,11 +4,17 @@
 	"extends": ["github>microsoft/vs-renovate-presets:devdiv"],
 	"packageRules": [
 		{
-			"matchPackageNames": ["Microsoft.VisualStudio.*"],
+			"matchPackageNames": [
+				"Microsoft.VisualStudio.*",
+				"Microsoft.Internal.VisualStudio.Shell.*"
+			],
 			"groupName": "Visual Studio SDK"
 		},
 		{
-			"matchPackageNames": ["Microsoft.VisualStudio.*"],
+			"matchPackageNames": [
+				"Microsoft.VisualStudio.*",
+				"Microsoft.Internal.VisualStudio.Shell.*"
+			],
 			"matchUpdateTypes": ["patch"],
 			"enabled": false
 		}
