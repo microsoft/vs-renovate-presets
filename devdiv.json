@@ -9,8 +9,14 @@
 			"groupName": "nbgv and nerdbank.gitversioning updates"
 		},
 		{
-			"matchPackageNames": ["xunit*"],
-			"groupName": "xunit"
+			"matchPackageNames": [
+				"NUnit*",
+				"TUnit*",
+				"xunit*",
+				"Microsoft.Testing.Platform.MSBuild",
+				"MSTest*"
+			],
+			"groupName": "Testing framework"
 		},
 		{
 			"matchPackageNames": [
