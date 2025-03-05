@@ -1,0 +1,10 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Keeps xunit targeting to v2",
+	"packageRules": [
+		{
+			"matchPackageNames": ["Xunit.Combinatorial", "Xunit.StaFact"],
+			"allowedVersions": "<2"
+		}
+	]
+}

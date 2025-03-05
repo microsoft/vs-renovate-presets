@@ -16,6 +16,7 @@ flowchart TD
     vs_main_dependencies --> vs_components
     vs_main_dependencies --> dotnet_packages_below
     public_package_updates_only
+    xunitv2
 ```
 
 Extending a preset in your renovate.json file implicitly extends all the presets it points to in the graph.
