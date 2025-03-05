@@ -15,6 +15,7 @@ flowchart TD
     vs_components --> devdiv
     vs_main_dependencies --> vs_components
     vs_main_dependencies --> dotnet_packages_below
+    vs_main_dependencies --> vs_main_dependencies_automated
     public_package_updates_only
     xunitv2
 ```

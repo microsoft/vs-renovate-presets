@@ -3,21 +3,8 @@
 	"description": "Preset to pace updates to dependencies that must not be newer than the version that ships with Visual Studio (based on the main branch of the VS repo).",
 	"extends": [
 		"github>microsoft/vs-renovate-presets:dotnet_packages_below(9)",
-		"github>microsoft/vs-renovate-presets:vs_components"
+		"github>microsoft/vs-renovate-presets:vs_components",
+		"github>microsoft/vs-renovate-presets:vs_main_dependencies_automated"
 	],
-	"packageRules": [
-		{
-			"matchPackageNames": [
-				"MessagePack",
-				"MessagePack.*",
-				"MessagePackAnalyzer"
-			],
-			"allowedVersions": "<=2.5.192",
-			"groupName": "MessagePack-CSharp"
-		},
-		{
-			"matchPackageNames": ["Newtonsoft.Json"],
-			"allowedVersions": "<=13.0.3"
-		}
-	]
+	"packageRules": []
 }

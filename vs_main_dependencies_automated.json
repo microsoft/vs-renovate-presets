@@ -1,0 +1,696 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "An automatically generated preset. Not intended for direct consumption. Use vs_main_dependencies instead.",
+  "packageRules": [
+    {
+      "allowedVersions": "<=2.5.192",
+      "matchPackageNames": [
+        "MessagePack.Annotations"
+      ]
+    },
+    {
+      "allowedVersions": "<=2.5.192",
+      "matchPackageNames": [
+        "MessagePack"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.2.7",
+      "matchPackageNames": [
+        "Microsoft.AspNet.WebApi.Client"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.2.7",
+      "matchPackageNames": [
+        "Microsoft.AspNet.WebApi.Core"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.2.7",
+      "matchPackageNames": [
+        "Microsoft.AspNet.WebApi.Owin"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.2.7",
+      "matchPackageNames": [
+        "Microsoft.AspNet.WebApi.SelfHost"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Bcl.AsyncInterfaces"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.14.0-preview-25127-07",
+      "matchPackageNames": [
+        "Microsoft.Build.Framework"
+      ]
+    },
+    {
+      "allowedVersions": "<=1.0.4-20200718.1",
+      "matchPackageNames": [
+        "Microsoft.Build.NonShippingTasks"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.14.0-preview-25127-07",
+      "matchPackageNames": [
+        "Microsoft.Build.Tasks.Core"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.14.0-preview-25127-07",
+      "matchPackageNames": [
+        "Microsoft.Build.Utilities.Core"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.14.0-preview-25127-07",
+      "matchPackageNames": [
+        "Microsoft.Build"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Configuration.Abstractions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Configuration.Binder"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Configuration"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.DependencyInjection.Abstractions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.DependencyInjection"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.DependencyModel"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Diagnostics.Abstractions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.FileProviders.Abstractions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.FileSystemGlobbing"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Logging.Abstractions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Logging.Configuration"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Logging"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.ObjectPool"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Options.ConfigurationExtensions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Options"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Primitives"
+      ]
+    },
+    {
+      "allowedVersions": "<=6.1.0",
+      "matchPackageNames": [
+        "Microsoft.IO.Redist"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.14.0-preview-25127-07",
+      "matchPackageNames": [
+        "Microsoft.NET.StringTools"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.8.40",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.Analyzers"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.1005",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.Client"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.8.40",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.Framework.Testing"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.8.40",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.Framework"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.1005",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.HostLib"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.1005",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.Resources"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.4.22.8513748",
+      "matchPackageNames": [
+        "Microsoft.ServiceHub.VSInsertionMetadata"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.13.14",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Composition.Analyzers"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.10.25-preview-g09c68821db.9152747",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Composition.VSInsertionMetadata"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.13.14",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Composition"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.13.37",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Threading.Analyzers"
+      ]
+    },
+    {
+      "allowedVersions": "<=15.8.192",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Threading.v15"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.10.12-preview.8886363",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Threading.VSInsertionMetadata"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.13.37",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Threading"
+      ]
+    },
+    {
+      "allowedVersions": "<=17.8.8",
+      "matchPackageNames": [
+        "Microsoft.VisualStudio.Validation"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "Microsoft.Win32.Primitives"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.0.0",
+      "matchPackageNames": [
+        "Microsoft.Win32.Registry"
+      ]
+    },
+    {
+      "allowedVersions": "<=2.11.79",
+      "matchPackageNames": [
+        "Nerdbank.Streams"
+      ]
+    },
+    {
+      "allowedVersions": "<=13.0.3",
+      "matchPackageNames": [
+        "Newtonsoft.Json"
+      ]
+    },
+    {
+      "allowedVersions": "<=2.21.27",
+      "matchPackageNames": [
+        "StreamJsonRpc"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.AppContext"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.0",
+      "matchPackageNames": [
+        "System.Buffers"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Collections.Immutable"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Collections"
+      ]
+    },
+    {
+      "allowedVersions": "<=2.0.0-beta3.22114.1",
+      "matchPackageNames": [
+        "System.CommandLine"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.ComponentModel.Composition"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition.AttributedModel"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition.Convention"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition.Hosting"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition.Runtime"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition.TypedParts"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Composition"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Console"
+      ]
+    },
+    {
+      "allowedVersions": "<=1.0.109.2",
+      "matchPackageNames": [
+        "System.Data.SQLite.Core"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Diagnostics.Debug"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.1",
+      "matchPackageNames": [
+        "System.Diagnostics.DiagnosticSource"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Diagnostics.FileVersionInfo"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Diagnostics.Process"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Diagnostics.StackTrace"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.10",
+      "matchPackageNames": [
+        "System.Drawing.Common"
+      ]
+    },
+    {
+      "allowedVersions": "<=6.35.0",
+      "matchPackageNames": [
+        "System.IdentityModel.Tokens.Jwt"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.IO.Compression.ZipFile"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.IO.Compression"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.0.0",
+      "matchPackageNames": [
+        "System.IO.FileSystem.AccessControl"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.IO.FileSystem.Primitives"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.IO.FileSystem"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.1",
+      "matchPackageNames": [
+        "System.IO.Packaging"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.IO.Pipelines"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.IO.Pipes"
+      ]
+    },
+    {
+      "allowedVersions": "<=10.0.10586",
+      "matchPackageNames": [
+        "System.Management.Automation.dll"
+      ]
+    },
+    {
+      "allowedVersions": "<=1.0.2",
+      "matchPackageNames": [
+        "System.Memory.Data"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.0",
+      "matchPackageNames": [
+        "System.Memory"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.4",
+      "matchPackageNames": [
+        "System.Net.Http"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Net.NameResolution"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.0",
+      "matchPackageNames": [
+        "System.Numerics.Vectors"
+      ]
+    },
+    {
+      "allowedVersions": "<=6.0.1",
+      "matchPackageNames": [
+        "System.Reactive"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Reflection.Metadata"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Reflection.MetadataLoadContext"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.7.0",
+      "matchPackageNames": [
+        "System.Reflection.TypeExtensions"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Resources.Extensions"
+      ]
+    },
+    {
+      "allowedVersions": "<=6.1.0",
+      "matchPackageNames": [
+        "System.Runtime.CompilerServices.Unsafe"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Runtime.InteropServices.RuntimeInformation"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Runtime.Loader"
+      ]
+    },
+    {
+      "allowedVersions": "<=6.0.0",
+      "matchPackageNames": [
+        "System.Security.AccessControl"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Security.Claims"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Security.Cryptography.Algorithms"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Security.Cryptography.Encoding"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Security.Cryptography.Primitives"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Security.Cryptography.ProtectedData"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.2",
+      "matchPackageNames": [
+        "System.Security.Cryptography.X509Certificates"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.0.0",
+      "matchPackageNames": [
+        "System.Security.Principal.Windows"
+      ]
+    },
+    {
+      "allowedVersions": "<=5.8.4",
+      "matchPackageNames": [
+        "System.Spatial"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Text.Encoding.CodePages"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Text.Encodings.Web"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.5",
+      "matchPackageNames": [
+        "System.Text.Json"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Threading.AccessControl"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.0",
+      "matchPackageNames": [
+        "System.Threading.Channels"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.0.1",
+      "matchPackageNames": [
+        "System.Threading.Tasks.Dataflow"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.6.0",
+      "matchPackageNames": [
+        "System.Threading.Tasks.Extensions"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Threading.Thread"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.5.0",
+      "matchPackageNames": [
+        "System.ValueTuple"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Xml.ReaderWriter"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Xml.XmlDocument"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Xml.XPath.XDocument"
+      ]
+    },
+    {
+      "allowedVersions": "<=4.3.0",
+      "matchPackageNames": [
+        "System.Xml.XPath"
+      ]
+    }
+  ]
+}

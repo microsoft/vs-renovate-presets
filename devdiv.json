@@ -13,6 +13,14 @@
 			"groupName": "xunit"
 		},
 		{
+			"matchPackageNames": [
+				"MessagePack",
+				"MessagePack.*",
+				"MessagePackAnalyzer"
+			],
+			"groupName": "MessagePack-CSharp"
+		},
+		{
 			"matchPackageNames": ["System.ComponentModel.Composition"],
 			"allowedVersions": "<2010.0"
 		},
