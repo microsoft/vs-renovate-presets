@@ -14,7 +14,7 @@
 		},
 		{
 			"matchPackageNames": ["System.ComponentModel.Composition"],
-			"allowedVersions": "<2010"
+			"allowedVersions": "<2010.0"
 		},
 		{
 			"matchDatasources": ["dotnet-version", "docker"],
