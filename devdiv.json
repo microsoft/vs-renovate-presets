@@ -20,6 +20,12 @@
 		},
 		{
 			"matchPackageNames": [
+				"Microsoft.Build*"
+			],
+			"groupName": "MSBuild"
+		},
+		{
+			"matchPackageNames": [
 				"MessagePack",
 				"MessagePack.*",
 				"MessagePackAnalyzer"

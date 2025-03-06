@@ -5,6 +5,7 @@
 	"packageRules": [
 		{
 			"matchPackageNames": [
+				"EnvDTE*",
 				"Microsoft.VisualStudio.*",
 				"Microsoft.Internal.VisualStudio.Shell.*"
 			],
@@ -12,6 +13,7 @@
 		},
 		{
 			"matchPackageNames": [
+				"EnvDTE*",
 				"Microsoft.ServiceHub.*",
 				"Microsoft.VisualStudio.*",
 				"Microsoft.Internal.VisualStudio.Shell.*"
