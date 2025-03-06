@@ -1,0 +1,6 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Limits NuGet package updates offered to those appropriate for ServiceHub services.",
+	"extends": ["github>microsoft/vs-renovate-presets:dotnet_packages_below(9)"],
+	"packageRules": []
+}
