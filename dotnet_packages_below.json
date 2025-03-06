@@ -1,6 +1,6 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"description": "Limits NuGet packages that ship alongside the .NET runtime to versions beneath major version <code>{{arg0}}</code>. Use 9 as the argument if you target .NET 8 era packages.",
+	"description": "Limits NuGet packages that ship alongside the .NET runtime to versions beneath major version <code>{{arg0}}</code>. Use this when targeting .NET (e.g. ServiceHub).",
 	"extends": ["github>microsoft/vs-renovate-presets:group_dotnet_packages"],
 	"packageRules": [
 		{
