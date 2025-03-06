@@ -5,6 +5,7 @@
 		{
 			"matchPackageNames": [
 				"Microsoft.Bcl.AsyncInterfaces",
+				"Microsoft.Diagnostics.*",
 				"Microsoft.Extensions.*",
 				"runtime.native.System*",
 				"System.*"
