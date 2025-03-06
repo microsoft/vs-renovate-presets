@@ -12,6 +12,7 @@
 		},
 		{
 			"matchPackageNames": [
+				"Microsoft.ServiceHub.*",
 				"Microsoft.VisualStudio.*",
 				"Microsoft.Internal.VisualStudio.Shell.*"
 			],
