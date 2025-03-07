@@ -48,7 +48,7 @@
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ],
-      "allowedVersions": "<=17.14.0-preview-25153-07"
+      "allowedVersions": "<=17.14.0-preview-25156-07"
     },
     {
       "matchPackageNames": [
@@ -60,19 +60,19 @@
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ],
-      "allowedVersions": "<=17.14.0-preview-25153-07"
+      "allowedVersions": "<=17.14.0-preview-25156-07"
     },
     {
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ],
-      "allowedVersions": "<=17.14.0-preview-25153-07"
+      "allowedVersions": "<=17.14.0-preview-25156-07"
     },
     {
       "matchPackageNames": [
         "Microsoft.Build"
       ],
-      "allowedVersions": "<=17.14.0-preview-25153-07"
+      "allowedVersions": "<=17.14.0-preview-25156-07"
     },
     {
       "matchPackageNames": [
@@ -180,7 +180,7 @@
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ],
-      "allowedVersions": "<=17.14.0-preview-25153-07"
+      "allowedVersions": "<=17.14.0-preview-25156-07"
     },
     {
       "matchPackageNames": [
@@ -192,7 +192,7 @@
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ],
-      "allowedVersions": "<=4.6.2014"
+      "allowedVersions": "<=4.6.2032"
     },
     {
       "matchPackageNames": [
@@ -210,13 +210,13 @@
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ],
-      "allowedVersions": "<=4.6.2014"
+      "allowedVersions": "<=4.6.2032"
     },
     {
       "matchPackageNames": [
         "Microsoft.ServiceHub.Resources"
       ],
-      "allowedVersions": "<=4.6.2014"
+      "allowedVersions": "<=4.6.2032"
     },
     {
       "matchPackageNames": [
@@ -228,7 +228,7 @@
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ],
-      "allowedVersions": "<=17.13.14"
+      "allowedVersions": "<=17.13.41"
     },
     {
       "matchPackageNames": [
@@ -240,7 +240,7 @@
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ],
-      "allowedVersions": "<=17.13.14"
+      "allowedVersions": "<=17.13.41"
     },
     {
       "matchPackageNames": [
