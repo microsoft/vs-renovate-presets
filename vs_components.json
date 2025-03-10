@@ -12,6 +12,10 @@
 			"groupName": "Visual Studio SDK"
 		},
 		{
+			"matchPackageNames": ["Microsoft.VisualStudio.Sdk.TestFramework*"],
+			"groupName": "Microsoft.VisualStudio.Sdk.TestFramework"
+		},
+		{
 			"matchPackageNames": [
 				"EnvDTE*",
 				"Microsoft.ServiceHub.*",
