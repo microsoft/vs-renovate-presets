@@ -30,6 +30,7 @@
 				"MessagePack.*",
 				"MessagePackAnalyzer"
 			],
+			"allowedVersions": "<3",
 			"groupName": "MessagePack-CSharp"
 		},
 		{
