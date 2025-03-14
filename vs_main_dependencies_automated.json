@@ -183,37 +183,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.8.52",
+      "allowedVersions": "<=4.8.55",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.2032",
+      "allowedVersions": "<=4.6.2036",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.8.52",
+      "allowedVersions": "<=4.8.55",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.8.52",
+      "allowedVersions": "<=4.8.55",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.2032",
+      "allowedVersions": "<=4.6.2036",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.2032",
+      "allowedVersions": "<=4.6.2036",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Resources"
       ]
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.21.62",
+      "allowedVersions": "<=2.21.66",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
