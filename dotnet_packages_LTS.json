@@ -1,0 +1,6 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"description": "Limits .NET BCL packages to versions matching the oldest supported version.",
+	"extends": ["github>microsoft/vs-renovate-presets:dotnet_packages_below(9)"],
+	"packageRules": []
+}
