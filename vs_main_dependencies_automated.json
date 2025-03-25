@@ -108,19 +108,19 @@
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ],
-      "allowedVersions": "<=17.14.40"
+      "allowedVersions": "<=17.14.49"
     },
     {
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Conversion"
       ],
-      "allowedVersions": "<=17.14.40"
+      "allowedVersions": "<=17.14.49"
     },
     {
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ],
-      "allowedVersions": "<=17.14.40"
+      "allowedVersions": "<=17.14.49"
     },
     {
       "matchPackageNames": [
@@ -354,13 +354,13 @@
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ],
-      "allowedVersions": "<=17.14.40"
+      "allowedVersions": "<=17.14.49"
     },
     {
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ],
-      "allowedVersions": "<=17.14.40"
+      "allowedVersions": "<=17.14.49"
     },
     {
       "matchPackageNames": [
