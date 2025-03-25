@@ -19,6 +19,7 @@ flowchart TD
     vs_main_dependencies --> vs_main_dependencies_automated
     public_package_updates_only
     xunitv2
+    servicehub_service --> vs_main_dependencies
     servicehub_service --> dotnet_packages_below
     dotnet_packages_LTS --> dotnet_packages_below
 ```
