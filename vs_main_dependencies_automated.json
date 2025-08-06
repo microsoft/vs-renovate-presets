@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25375-03",
+      "allowedVersions": "<=17.15.0-preview-25405-04",
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ]
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25375-03",
+      "allowedVersions": "<=17.15.0-preview-25405-04",
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25375-03",
+      "allowedVersions": "<=17.15.0-preview-25405-04",
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25375-03",
+      "allowedVersions": "<=17.15.0-preview-25405-04",
       "matchPackageNames": [
         "Microsoft.Build"
       ]
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25375-03",
+      "allowedVersions": "<=17.15.0-preview-25405-04",
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ]
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.3173",
+      "allowedVersions": "<=4.6.3176",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -315,13 +315,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.3173",
+      "allowedVersions": "<=4.6.3176",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3173",
+      "allowedVersions": "<=4.6.3176",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Resources"
       ]
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "allowedVersions": "<=0.8.54-rc",
+      "allowedVersions": "<=0.8.82-rc",
       "matchPackageNames": [
         "Nerdbank.MessagePack"
       ]
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "allowedVersions": "<=0.48.1",
+      "allowedVersions": "<=0.51.1",
       "matchPackageNames": [
         "PolyType"
       ]
