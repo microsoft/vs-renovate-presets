@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25405-04",
+      "allowedVersions": "<=17.15.0-preview-25407-08",
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ]
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25405-04",
+      "allowedVersions": "<=17.15.0-preview-25407-08",
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25405-04",
+      "allowedVersions": "<=17.15.0-preview-25407-08",
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25405-04",
+      "allowedVersions": "<=17.15.0-preview-25407-08",
       "matchPackageNames": [
         "Microsoft.Build"
       ]
@@ -111,19 +111,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.75",
+      "allowedVersions": "<=18.0.80",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.0.75",
+      "allowedVersions": "<=18.0.80",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.75",
+      "allowedVersions": "<=18.0.80",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -285,37 +285,37 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25405-04",
+      "allowedVersions": "<=17.15.0-preview-25407-08",
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ]
     },
     {
-      "allowedVersions": "<=4.9.14-beta",
+      "allowedVersions": "<=4.9.16-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3176",
+      "allowedVersions": "<=4.6.3191",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.9.14-beta",
+      "allowedVersions": "<=4.9.16-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.9.14-beta",
+      "allowedVersions": "<=4.9.16-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3176",
+      "allowedVersions": "<=4.6.3191",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.52",
+      "allowedVersions": "<=17.13.59",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -345,19 +345,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.52",
+      "allowedVersions": "<=17.13.59",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.0.75",
+      "allowedVersions": "<=18.0.80",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.0.75",
+      "allowedVersions": "<=18.0.80",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
