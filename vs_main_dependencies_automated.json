@@ -111,19 +111,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.87",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.87",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.87",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -273,12 +273,6 @@
       ]
     },
     {
-      "allowedVersions": "<=5.2.9",
-      "matchPackageNames": [
-        "Microsoft.IdentityModel.Clients.ActiveDirectory"
-      ]
-    },
-    {
       "allowedVersions": "<=6.1.0",
       "matchPackageNames": [
         "Microsoft.IO.Redist"
@@ -297,7 +291,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.3191",
+      "allowedVersions": "<=4.6.3203",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -315,7 +309,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.3191",
+      "allowedVersions": "<=4.6.3203",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -333,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.59",
+      "allowedVersions": "<=17.13.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -345,19 +339,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.59",
+      "allowedVersions": "<=17.13.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.87",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.87",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
@@ -393,7 +387,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.8.8",
+      "allowedVersions": "<=17.13.22",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Validation"
       ]
