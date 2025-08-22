@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25407-08",
+      "allowedVersions": "<=17.15.0-preview-25418-10",
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ]
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25407-08",
+      "allowedVersions": "<=17.15.0-preview-25418-10",
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25407-08",
+      "allowedVersions": "<=17.15.0-preview-25418-10",
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25407-08",
+      "allowedVersions": "<=17.15.0-preview-25418-10",
       "matchPackageNames": [
         "Microsoft.Build"
       ]
@@ -111,19 +111,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.95",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.95",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.95",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -273,49 +273,43 @@
       ]
     },
     {
-      "allowedVersions": "<=5.2.9",
-      "matchPackageNames": [
-        "Microsoft.IdentityModel.Clients.ActiveDirectory"
-      ]
-    },
-    {
       "allowedVersions": "<=6.1.0",
       "matchPackageNames": [
         "Microsoft.IO.Redist"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25407-08",
+      "allowedVersions": "<=17.15.0-preview-25418-10",
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ]
     },
     {
-      "allowedVersions": "<=4.9.16-beta",
+      "allowedVersions": "<=4.9.18-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3191",
+      "allowedVersions": "<=4.6.3207",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.9.16-beta",
+      "allowedVersions": "<=4.9.18-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.9.16-beta",
+      "allowedVersions": "<=4.9.18-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3191",
+      "allowedVersions": "<=4.6.3207",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -333,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.59",
+      "allowedVersions": "<=17.13.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -345,19 +339,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.13.59",
+      "allowedVersions": "<=17.13.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.95",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.0.80",
+      "allowedVersions": "<=18.0.95",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
@@ -393,7 +387,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.8.8",
+      "allowedVersions": "<=17.13.22",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Validation"
       ]
@@ -411,7 +405,7 @@
       ]
     },
     {
-      "allowedVersions": "<=0.8.82-rc",
+      "allowedVersions": "<=0.8.102-rc",
       "matchPackageNames": [
         "Nerdbank.MessagePack"
       ]
@@ -429,13 +423,13 @@
       ]
     },
     {
-      "allowedVersions": "<=0.51.1",
+      "allowedVersions": "<=0.54.1",
       "matchPackageNames": [
         "PolyType"
       ]
     },
     {
-      "allowedVersions": "<=2.23.41-alpha",
+      "allowedVersions": "<=2.23.76-alpha",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
@@ -729,7 +723,7 @@
       ]
     },
     {
-      "allowedVersions": "<=9.0.0",
+      "allowedVersions": "<=9.0.6",
       "matchPackageNames": [
         "System.Security.Cryptography.ProtectedData"
       ]
