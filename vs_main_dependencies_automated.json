@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25418-10",
+      "allowedVersions": "<=17.15.0-preview-25421-07",
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ]
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25418-10",
+      "allowedVersions": "<=17.15.0-preview-25421-07",
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25418-10",
+      "allowedVersions": "<=17.15.0-preview-25421-07",
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25418-10",
+      "allowedVersions": "<=17.15.0-preview-25421-07",
       "matchPackageNames": [
         "Microsoft.Build"
       ]
@@ -111,19 +111,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.95",
+      "allowedVersions": "<=18.0.100",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.0.95",
+      "allowedVersions": "<=18.0.100",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.95",
+      "allowedVersions": "<=18.0.100",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -279,37 +279,37 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.0-preview-25418-10",
+      "allowedVersions": "<=17.15.0-preview-25421-07",
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ]
     },
     {
-      "allowedVersions": "<=4.9.18-beta",
+      "allowedVersions": "<=4.9.19-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3207",
+      "allowedVersions": "<=4.6.4218",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.9.18-beta",
+      "allowedVersions": "<=4.9.19-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.9.18-beta",
+      "allowedVersions": "<=4.9.19-beta",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.3207",
+      "allowedVersions": "<=4.6.4218",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -345,25 +345,25 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.95",
+      "allowedVersions": "<=18.0.100",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.0.95",
+      "allowedVersions": "<=18.0.100",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
     },
     {
-      "allowedVersions": "<=17.15.25-alpha",
+      "allowedVersions": "<=17.15.26-alpha",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=17.15.25-alpha",
+      "allowedVersions": "<=17.15.26-alpha",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.15.25-alpha",
+      "allowedVersions": "<=17.15.26-alpha",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -405,7 +405,7 @@
       ]
     },
     {
-      "allowedVersions": "<=0.8.102-rc",
+      "allowedVersions": "<=0.8.131-rc",
       "matchPackageNames": [
         "Nerdbank.MessagePack"
       ]
@@ -423,13 +423,13 @@
       ]
     },
     {
-      "allowedVersions": "<=0.54.1",
+      "allowedVersions": "<=0.57.1",
       "matchPackageNames": [
         "PolyType"
       ]
     },
     {
-      "allowedVersions": "<=2.23.76-alpha",
+      "allowedVersions": "<=2.23.77-alpha",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.5.0",
+      "allowedVersions": "<=4.6.1",
       "matchPackageNames": [
         "System.ValueTuple"
       ]
