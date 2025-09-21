@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.0-preview-25465-08",
+      "allowedVersions": "<=18.0.0-preview-25468-02",
       "matchPackageNames": [
         "Microsoft.Build.Framework"
       ]
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.0-preview-25465-08",
+      "allowedVersions": "<=18.0.0-preview-25468-02",
       "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.0-preview-25465-08",
+      "allowedVersions": "<=18.0.0-preview-25468-02",
       "matchPackageNames": [
         "Microsoft.Build.Utilities.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.0.0-preview-25465-08",
+      "allowedVersions": "<=18.0.0-preview-25468-02",
       "matchPackageNames": [
         "Microsoft.Build"
       ]
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.0-preview-25465-08",
+      "allowedVersions": "<=18.0.0-preview-25468-02",
       "matchPackageNames": [
         "Microsoft.NET.StringTools"
       ]
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.4240",
+      "allowedVersions": "<=4.6.4241",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.4240",
+      "allowedVersions": "<=4.6.4241",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
