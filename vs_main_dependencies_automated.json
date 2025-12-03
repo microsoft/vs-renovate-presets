@@ -345,13 +345,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.11",
+      "allowedVersions": "<=18.0.18",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.0.11",
+      "allowedVersions": "<=18.0.18",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -363,13 +363,7 @@
       ]
     },
     {
-      "allowedVersions": "<=17.10.12-preview.8886363",
-      "matchPackageNames": [
-        "Microsoft.VisualStudio.Threading.VSInsertionMetadata"
-      ]
-    },
-    {
-      "allowedVersions": "<=18.0.11",
+      "allowedVersions": "<=18.0.18",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
