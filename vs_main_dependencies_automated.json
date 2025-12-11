@@ -123,19 +123,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.23",
+      "allowedVersions": "<=18.3.24",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.3.23",
+      "allowedVersions": "<=18.3.24",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.3.23",
+      "allowedVersions": "<=18.3.24",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.76.0",
+      "allowedVersions": "<=4.79.2",
       "matchPackageNames": [
         "Microsoft.Identity.Client.Broker"
       ]
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.76.0",
+      "allowedVersions": "<=4.79.2",
       "matchPackageNames": [
         "Microsoft.Identity.Client.Extensions.Msal"
       ]
@@ -297,13 +297,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.76.0",
+      "allowedVersions": "<=4.79.2",
       "matchPackageNames": [
         "Microsoft.Identity.Client"
       ]
     },
     {
-      "allowedVersions": "<=8.7.0",
+      "allowedVersions": "<=8.15.0",
       "matchPackageNames": [
         "Microsoft.IdentityModel.Abstractions"
       ]
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.7340",
+      "allowedVersions": "<=4.6.7341",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.7340",
+      "allowedVersions": "<=4.6.7341",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -375,13 +375,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.23",
+      "allowedVersions": "<=18.3.24",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.3.23",
+      "allowedVersions": "<=18.3.24",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
@@ -591,7 +591,13 @@
       ]
     },
     {
-      "allowedVersions": "<=8.7.0",
+      "allowedVersions": "<=9.0.11",
+      "matchPackageNames": [
+        "System.Formats.Asn1"
+      ]
+    },
+    {
+      "allowedVersions": "<=8.15.0",
       "matchPackageNames": [
         "System.IdentityModel.Tokens.Jwt"
       ]
