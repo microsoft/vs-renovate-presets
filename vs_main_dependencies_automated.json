@@ -123,19 +123,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.34",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
@@ -333,13 +333,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.34",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.34",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
@@ -375,25 +375,25 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -405,7 +405,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.24.76",
+      "allowedVersions": "<=2.24.83",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
