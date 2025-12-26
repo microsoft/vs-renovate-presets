@@ -123,19 +123,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService"
       ]
@@ -321,31 +321,31 @@
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.35",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.7341",
+      "allowedVersions": "<=4.6.7343",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.35",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.10.30",
+      "allowedVersions": "<=4.10.35",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.7341",
+      "allowedVersions": "<=4.6.7343",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.36",
+      "allowedVersions": "<=18.3.38",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -369,31 +369,31 @@
       ]
     },
     {
-      "allowedVersions": "<=18.3.36",
+      "allowedVersions": "<=18.3.38",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.3.24",
+      "allowedVersions": "<=18.3.26",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -405,7 +405,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.0.25",
+      "allowedVersions": "<=18.0.36",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.24.76",
+      "allowedVersions": "<=2.24.83",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
