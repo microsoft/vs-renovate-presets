@@ -51,7 +51,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Bcl.AsyncInterfaces"
       ]
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Bcl.Memory"
       ]
@@ -129,13 +129,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.7",
+      "allowedVersions": "<=18.9.10",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.9.7",
+      "allowedVersions": "<=18.9.10",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
@@ -165,115 +165,115 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Configuration.Abstractions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Configuration.Binder"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Configuration"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.DependencyInjection.Abstractions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.DependencyInjection"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.DependencyModel"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Diagnostics.Abstractions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.FileProviders.Abstractions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.FileSystemGlobbing"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Http"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Logging.Abstractions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Logging.Configuration"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Logging.Console"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Logging"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.ObjectPool"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Options.ConfigurationExtensions"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Options"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.Primitives"
       ]
     },
     {
-      "allowedVersions": "<=4.84.1",
+      "allowedVersions": "<=4.87.0",
       "matchPackageNames": [
         "Microsoft.Identity.Client.Broker"
       ]
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.84.1",
+      "allowedVersions": "<=4.87.0",
       "matchPackageNames": [
         "Microsoft.Identity.Client.Extensions.Msal"
       ]
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.84.1",
+      "allowedVersions": "<=4.87.0",
       "matchPackageNames": [
         "Microsoft.Identity.Client"
       ]
@@ -321,37 +321,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.61",
+      "allowedVersions": "<=4.11.76",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.14538",
+      "allowedVersions": "<=4.6.15553",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.61",
+      "allowedVersions": "<=4.11.76",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.61",
+      "allowedVersions": "<=4.11.76",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.14538",
+      "allowedVersions": "<=4.6.15553",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.14538",
+      "allowedVersions": "<=4.6.15553",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.46",
+      "allowedVersions": "<=18.9.52",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -375,31 +375,31 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.46",
+      "allowedVersions": "<=18.9.52",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.9.7",
+      "allowedVersions": "<=18.9.10",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.9.7",
+      "allowedVersions": "<=18.9.10",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
     },
     {
-      "allowedVersions": "<=18.7.51",
+      "allowedVersions": "<=18.7.57",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.7.51",
+      "allowedVersions": "<=18.7.57",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.51",
+      "allowedVersions": "<=18.7.57",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.54",
+      "allowedVersions": "<=2.26.57",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
@@ -483,13 +483,13 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.CodeDom"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Collections.Immutable"
       ]
@@ -507,43 +507,43 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.ComponentModel.Composition"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition.AttributedModel"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition.Convention"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition.Hosting"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition.Runtime"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition.TypedParts"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Composition"
       ]
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Diagnostics.DiagnosticSource"
       ]
@@ -591,13 +591,13 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Drawing.Common"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Formats.Asn1"
       ]
@@ -645,19 +645,19 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.IO.Hashing"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.IO.Packaging"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.IO.Pipelines"
       ]
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Net.Http.Json"
       ]
@@ -717,13 +717,13 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Reflection.Metadata"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Reflection.MetadataLoadContext"
       ]
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Resources.Extensions"
       ]
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Security.Cryptography.ProtectedData"
       ]
@@ -819,37 +819,37 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Text.Encoding.CodePages"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Text.Encodings.Web"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Text.Json"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Threading.AccessControl"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Threading.Channels"
       ]
     },
     {
-      "allowedVersions": "<=10.0.9",
+      "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "System.Threading.Tasks.Dataflow"
       ]
