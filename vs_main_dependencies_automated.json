@@ -321,37 +321,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.76",
+      "allowedVersions": "<=4.11.92",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15553",
+      "allowedVersions": "<=4.6.15562",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.76",
+      "allowedVersions": "<=4.11.92",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.76",
+      "allowedVersions": "<=4.11.92",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15553",
+      "allowedVersions": "<=4.6.15562",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15553",
+      "allowedVersions": "<=4.6.15562",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -393,13 +393,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.57",
+      "allowedVersions": "<=18.7.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.7.57",
+      "allowedVersions": "<=18.7.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -411,13 +411,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.57",
+      "allowedVersions": "<=18.7.63",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
     },
     {
-      "allowedVersions": "<=18.7.1",
+      "allowedVersions": "<=18.7.19",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Validation"
       ]
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.57",
+      "allowedVersions": "<=2.26.63",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
