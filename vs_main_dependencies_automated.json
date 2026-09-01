@@ -321,37 +321,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.95",
+      "allowedVersions": "<=4.11.109",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15574",
+      "allowedVersions": "<=4.6.15576",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.95",
+      "allowedVersions": "<=4.11.109",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.95",
+      "allowedVersions": "<=4.11.109",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15574",
+      "allowedVersions": "<=4.6.15576",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.15574",
+      "allowedVersions": "<=4.6.15576",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.57",
+      "allowedVersions": "<=18.9.60",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.57",
+      "allowedVersions": "<=18.9.60",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
