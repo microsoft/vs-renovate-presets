@@ -321,37 +321,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.134",
+      "allowedVersions": "<=4.11.142",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16586",
+      "allowedVersions": "<=4.6.16591",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.134",
+      "allowedVersions": "<=4.11.142",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.134",
+      "allowedVersions": "<=4.11.142",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16586",
+      "allowedVersions": "<=4.6.16591",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16586",
+      "allowedVersions": "<=4.6.16591",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -393,13 +393,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.115",
+      "allowedVersions": "<=18.7.127",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.7.115",
+      "allowedVersions": "<=18.7.127",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.115",
+      "allowedVersions": "<=18.7.127",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.97",
+      "allowedVersions": "<=2.26.98",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
