@@ -327,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16593",
+      "allowedVersions": "<=4.6.16597",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -345,13 +345,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16593",
+      "allowedVersions": "<=4.6.16597",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16593",
+      "allowedVersions": "<=4.6.16597",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -393,13 +393,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.127",
+      "allowedVersions": "<=18.7.128",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.7.127",
+      "allowedVersions": "<=18.7.128",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.127",
+      "allowedVersions": "<=18.7.128",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.98",
+      "allowedVersions": "<=2.26.99",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
