@@ -129,13 +129,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.11.2",
+      "allowedVersions": "<=18.11.6",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.11.2",
+      "allowedVersions": "<=18.11.6",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
@@ -216,6 +216,12 @@
       "allowedVersions": "<=10.0.10",
       "matchPackageNames": [
         "Microsoft.Extensions.FileSystemGlobbing"
+      ]
+    },
+    {
+      "allowedVersions": "<=10.0.10",
+      "matchPackageNames": [
+        "Microsoft.Extensions.Hosting.Abstractions"
       ]
     },
     {
@@ -303,7 +309,7 @@
       ]
     },
     {
-      "allowedVersions": "<=8.15.0",
+      "allowedVersions": "<=8.16.0",
       "matchPackageNames": [
         "Microsoft.IdentityModel.Abstractions"
       ]
@@ -321,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.154",
+      "allowedVersions": "<=4.11.156",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
@@ -333,13 +339,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.154",
+      "allowedVersions": "<=4.11.156",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.154",
+      "allowedVersions": "<=4.11.156",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
@@ -363,7 +369,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.63",
+      "allowedVersions": "<=18.9.78",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -375,19 +381,19 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.63",
+      "allowedVersions": "<=18.9.78",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
     },
     {
-      "allowedVersions": "<=18.11.2",
+      "allowedVersions": "<=18.11.6",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.11.2",
+      "allowedVersions": "<=18.11.6",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
@@ -459,7 +465,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.113",
+      "allowedVersions": "<=2.26.114",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
@@ -477,7 +483,7 @@
       ]
     },
     {
-      "allowedVersions": "<=1.8.1",
+      "allowedVersions": "<=1.10.0",
       "matchPackageNames": [
         "System.ClientModel"
       ]
@@ -603,7 +609,7 @@
       ]
     },
     {
-      "allowedVersions": "<=8.15.0",
+      "allowedVersions": "<=8.16.0",
       "matchPackageNames": [
         "System.IdentityModel.Tokens.Jwt"
       ]
@@ -675,7 +681,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.0.2",
+      "allowedVersions": "<=10.0.3",
       "matchPackageNames": [
         "System.Memory.Data"
       ]
