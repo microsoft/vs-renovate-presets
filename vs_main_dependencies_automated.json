@@ -129,13 +129,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.11.8",
+      "allowedVersions": "<=18.11.9",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.11.8",
+      "allowedVersions": "<=18.11.9",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16612",
+      "allowedVersions": "<=4.6.16618",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -351,13 +351,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16612",
+      "allowedVersions": "<=4.6.16618",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16612",
+      "allowedVersions": "<=4.6.16618",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -387,13 +387,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.11.8",
+      "allowedVersions": "<=18.11.9",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.11.8",
+      "allowedVersions": "<=18.11.9",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
