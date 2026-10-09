@@ -333,7 +333,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16618",
+      "allowedVersions": "<=4.6.17621",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -351,13 +351,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.16618",
+      "allowedVersions": "<=4.6.17621",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.16618",
+      "allowedVersions": "<=4.6.17621",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.89",
+      "allowedVersions": "<=18.9.90",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.89",
+      "allowedVersions": "<=18.9.90",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
@@ -399,13 +399,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.139",
+      "allowedVersions": "<=18.7.141",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=18.7.139",
+      "allowedVersions": "<=18.7.141",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading.Only"
       ]
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.7.139",
+      "allowedVersions": "<=18.7.141",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Threading"
       ]
