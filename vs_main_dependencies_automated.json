@@ -333,7 +333,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.17621",
+      "allowedVersions": "<=4.6.17629",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -351,13 +351,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.17621",
+      "allowedVersions": "<=4.6.17629",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.17621",
+      "allowedVersions": "<=4.6.17629",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
