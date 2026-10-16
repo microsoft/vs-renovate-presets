@@ -3,19 +3,19 @@
   "description": "An automatically generated preset. Not intended for direct consumption. Use vs_main_dependencies instead.",
   "packageRules": [
     {
-      "allowedVersions": "<=2.5.305",
+      "allowedVersions": "<=2.5.307",
       "matchPackageNames": [
         "MessagePack.Annotations"
       ]
     },
     {
-      "allowedVersions": "<=2.5.305",
+      "allowedVersions": "<=2.5.307",
       "matchPackageNames": [
         "MessagePack"
       ]
     },
     {
-      "allowedVersions": "<=2.5.305",
+      "allowedVersions": "<=2.5.307",
       "matchPackageNames": [
         "MessagePackAnalyzer"
       ]
