@@ -333,7 +333,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.17634",
+      "allowedVersions": "<=4.6.17635",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
@@ -351,13 +351,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.6.17634",
+      "allowedVersions": "<=4.6.17635",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.17634",
+      "allowedVersions": "<=4.6.17635",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.150",
+      "allowedVersions": "<=2.26.154",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
