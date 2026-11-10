@@ -129,13 +129,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.11.22",
+      "allowedVersions": "<=18.11.25",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Client"
       ]
     },
     {
-      "allowedVersions": "<=18.11.22",
+      "allowedVersions": "<=18.11.25",
       "matchPackageNames": [
         "Microsoft.Developer.IdentityService.Core"
       ]
@@ -327,37 +327,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.226",
+      "allowedVersions": "<=4.11.229",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18640",
+      "allowedVersions": "<=4.6.18648",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.226",
+      "allowedVersions": "<=4.11.229",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.226",
+      "allowedVersions": "<=4.11.229",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18640",
+      "allowedVersions": "<=4.6.18648",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18640",
+      "allowedVersions": "<=4.6.18648",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -387,13 +387,13 @@
       ]
     },
     {
-      "allowedVersions": "<=18.11.22",
+      "allowedVersions": "<=18.11.25",
       "matchPackageNames": [
         "Microsoft.VisualStudio.LicenseManagement.Interop"
       ]
     },
     {
-      "allowedVersions": "<=18.11.22",
+      "allowedVersions": "<=18.11.25",
       "matchPackageNames": [
         "Microsoft.VisualStudio.OnlineLicensing"
       ]
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.163",
+      "allowedVersions": "<=2.26.164",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
