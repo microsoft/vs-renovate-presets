@@ -95,6 +95,12 @@
     {
       "allowedVersions": "<=18.7.1",
       "matchPackageNames": [
+        "Microsoft.Build.Runtime"
+      ]
+    },
+    {
+      "allowedVersions": "<=18.7.1",
+      "matchPackageNames": [
         "Microsoft.Build.Tasks.Core"
       ]
     },
