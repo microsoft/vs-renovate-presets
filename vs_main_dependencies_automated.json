@@ -141,7 +141,7 @@
       ]
     },
     {
-      "allowedVersions": "<=10.4.0",
+      "allowedVersions": "<=10.11.0",
       "matchPackageNames": [
         "Microsoft.Extensions.AI.Abstractions"
       ]
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.229",
+      "allowedVersions": "<=4.11.235",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
@@ -339,13 +339,13 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.229",
+      "allowedVersions": "<=4.11.235",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.229",
+      "allowedVersions": "<=4.11.235",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.108",
+      "allowedVersions": "<=18.9.114",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition.Analyzers"
       ]
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "allowedVersions": "<=18.9.108",
+      "allowedVersions": "<=18.9.114",
       "matchPackageNames": [
         "Microsoft.VisualStudio.Composition"
       ]
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "allowedVersions": "<=2.26.164",
+      "allowedVersions": "<=2.26.165",
       "matchPackageNames": [
         "StreamJsonRpc"
       ]
