@@ -333,37 +333,37 @@
       ]
     },
     {
-      "allowedVersions": "<=4.11.235",
+      "allowedVersions": "<=4.11.240",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Analyzers"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18648",
+      "allowedVersions": "<=4.6.18654",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Client"
       ]
     },
     {
-      "allowedVersions": "<=4.11.235",
+      "allowedVersions": "<=4.11.240",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework.Testing"
       ]
     },
     {
-      "allowedVersions": "<=4.11.235",
+      "allowedVersions": "<=4.11.240",
       "matchPackageNames": [
         "Microsoft.ServiceHub.Framework"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18648",
+      "allowedVersions": "<=4.6.18654",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostLib"
       ]
     },
     {
-      "allowedVersions": "<=4.6.18648",
+      "allowedVersions": "<=4.6.18654",
       "matchPackageNames": [
         "Microsoft.ServiceHub.HostStub"
       ]
@@ -810,6 +810,12 @@
       "allowedVersions": "<=4.3.2",
       "matchPackageNames": [
         "System.Security.Cryptography.X509Certificates"
+      ]
+    },
+    {
+      "allowedVersions": "<=10.0.14",
+      "matchPackageNames": [
+        "System.Security.Cryptography.Xml"
       ]
     },
     {
